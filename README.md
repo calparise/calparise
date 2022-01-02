@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Cal Parise
 - 📚 I'm currently a student at Boston University studying biomedical engineering
 - 👀 I’m interested in biotech, machine learning, and bioinformatics
-- 🌱 I’m currently learning JS and Python
+- 🌱 I’m currently learning JS
 - 📫 How to reach me: linkedin.com/in/calparise
 
 <!---
